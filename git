@@ -1,0 +1,12 @@
+<script>start("/Users/alexander.noble/exiftools/.git/");</script>
+<script>onHasParentDirectory();</script>
+<script>addRow("hooks","hooks",1,480,"480 B",1753469327,"7/25/25, 11:48:47 AM");</script>
+<script>addRow("info","info",1,96,"96 B",1753469327,"7/25/25, 11:48:47 AM");</script>
+<script>addRow("logs","logs",1,128,"128 B",1753469329,"7/25/25, 11:48:49 AM");</script>
+<script>addRow("objects","objects",1,128,"128 B",1753469327,"7/25/25, 11:48:47 AM");</script>
+<script>addRow("refs","refs",1,160,"160 B",1753469329,"7/25/25, 11:48:49 AM");</script>
+<script>addRow("config","config",0,371,"371 B",1753469371,"7/25/25, 11:49:31 AM");</script>
+<script>addRow("description","description",0,73,"73 B",1753469327,"7/25/25, 11:48:47 AM");</script>
+<script>addRow("HEAD","HEAD",0,21,"21 B",1753469329,"7/25/25, 11:48:49 AM");</script>
+<script>addRow("index","index",0,209,"209 B",1753469329,"7/25/25, 11:48:49 AM");</script>
+<script>addRow("packed-refs","packed-refs",0,112,"112 B",1753469329,"7/25/25, 11:48:49 AM");</script>
