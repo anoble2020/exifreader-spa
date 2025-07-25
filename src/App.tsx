@@ -102,6 +102,7 @@ function App() {
     <>
       <div className="container">
         <h1>Image Metadata Extractor</h1>
+        <p>Upload an image to extract its metadata. Built with <a href="https://www.npmjs.com/package/exifreader" target="_blank" rel="noopener noreferrer">exifreader</a>.</p>
         <input type="file" accept="image/*" onChange={handleFileChange} />
         {error && <div className="error">{error}</div>}
         {metadata && (
